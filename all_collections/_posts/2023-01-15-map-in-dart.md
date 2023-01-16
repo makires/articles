@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Словарь в Dart, он же Map
-date: 2023-01-17
+date: 2023-01-15
 categories: ["dart"]
 ---
 
