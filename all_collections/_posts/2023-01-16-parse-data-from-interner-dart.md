@@ -40,7 +40,7 @@ final jsonList = jsonDecode(jsonString);
 Если это понимание есть, отлично. Двигаемся дальше. 
 
 Если нет, то вот разбор данной структуры данных. 
-[Словарь в Dart, он же Map](./another-page.html). 
+[Словарь в Dart, он же Map](https://makires.github.io/articles/posts/map/). 
 
 Итак, мы получаем строку в качестве ответа:
 
